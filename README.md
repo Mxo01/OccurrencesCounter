@@ -24,10 +24,10 @@ in combination with a [BufferedReader](https://docs.oracle.com/javase/7/docs/api
 to read from the file 
 and a [FileWriter](https://docs.oracle.com/javase/7/docs/api/java/io/FileWriter.html) to write an output file the execution result in the following format:
 
-<character>,<occurences>\
-<character>,<occurences>\
-<character>,<occurences>\
-<character>,<occurences>\
+\<character\>,\<occurences\>\
+\<character\>,\<occurences\>\
+\<character>,\<occurences>\
+\<character>,\<occurences>\
 ...
 
 
